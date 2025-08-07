@@ -1,5 +1,25 @@
-<img src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565"  
-     alt="Coding GIF" align="right" width="200" />
+<!-- Two-column About Me with GIF -->
+<div style="display: flex; align-items: flex-start; gap: 2rem;">
+
+  <!-- Left column: About Me -->
+  <div style="flex: 1; min-width: 200px;">
+    <h2>💫 About Me:</h2>
+    <p>
+      Dynamic and detail-oriented Business Analyst with nearly 5 years of experience in IT, specializing in project management, business and systems analysis, and the application of Agile Scrum and SAFe methodologies. Proven expertise in requirements gathering, stakeholder engagement, and creating comprehensive documentation including BRDs, FRDs, and SRS. Skilled in SQL, data analysis, and ETL processes, with hands-on experience in SOA, Microservices, and API implementation. Adept at collaborating with cross-functional teams, ensuring functional alignment of business requirements, and supporting HRIS systems and audits. Strong track record of driving business agility through technical solution validation using tools like Postman and SoapUI. Passionate about delivering scalable, compliant, and value-driven solutions across enterprise environments.
+    </p>
+  </div>
+
+  <!-- Right column: GIF -->
+  <div style="flex: 1; text-align: center; min-width: 200px;">
+    <img
+      src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565"
+      alt="Ghibli-style coding GIF"
+      style="max-width: 100%; height: auto;"
+    />
+  </div>
+
+</div>
+
      
 # 💫 About Me:
 Dynamic and detail-oriented Business Analyst with nearly 5 years of experience in IT, specializing in project management, business and systems analysis, and the application of Agile Scrum and SAFe methodologies. Proven expertise in requirements gathering, stakeholder engagement, and creating comprehensive documentation including BRDs, FRDs, and SRS. Skilled in SQL, data analysis, and ETL processes, with hands-on experience in SOA, Microservices, and API implementation. Adept at collaborating with cross-functional teams, ensuring functional alignment of business requirements, and supporting HRIS systems and audits. Strong track record of driving business agility through technical solution validation using tools like Postman and SoapUI. Passionate about delivering scalable, compliant, and value-driven solutions across enterprise environments.
